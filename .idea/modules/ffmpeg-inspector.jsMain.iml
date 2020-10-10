@@ -45,4 +45,60 @@
       </configuration>
     </facet>
   </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../build/js/packages/ffmpeg-inspector/kotlin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../build/externals/ffmpeg-inspector/src" />
+    <content url="file://$MODULE_DIR$/../../src/jsMain">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/jsMain/kotlin" type="kotlin-source" />
+    </content>
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ffmpeg-inspector.commonMain" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../build/js/node_modules/react/index.js" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../build/js/node_modules/react-dom/index.js" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-js-metadata:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-js:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-json-metadata:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-serialization-js:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-json-js:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-serialization-metadata:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:kotlin-react-dom:16.13.1-pre.110-kotlin-1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:kotlin-react:16.13.1-pre.110-kotlin-1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-core-metadata:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-metadata:1.3.8-native-mt-1.4.0-rc" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-js:1.0.0-RC" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-metadata:1.0.0-RC" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-core-js:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-cio-metadata:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-metadata:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:kotlin-extensions:1.0.1-pre.110-kotlin-1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-utils-metadata:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-html-js:0.7.2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-io-metadata:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-js:1.3.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:atomicfu-js:0.14.4" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-cio-js:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-js:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-utils-js:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-io-js:1.4.0" level="project" />
+  </component>
 </module>
