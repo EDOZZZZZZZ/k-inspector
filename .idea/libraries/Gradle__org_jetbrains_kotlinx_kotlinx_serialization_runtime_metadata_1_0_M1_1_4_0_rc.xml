@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-runtime-metadata:1.0-M1-1.4.0-rc" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-runtime-metadata/1.0-M1-1.4.0-rc/76f7250107b23971ac5b4376c7ad1921d67f77eb/kotlinx-serialization-runtime-metadata-1.0-M1-1.4.0-rc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-runtime-metadata/1.0-M1-1.4.0-rc/657c08d7494a49c117b9d30031e1e8f5954a16d1/kotlinx-serialization-runtime-metadata-1.0-M1-1.4.0-rc-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

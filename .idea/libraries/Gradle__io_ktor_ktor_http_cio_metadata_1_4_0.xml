@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-http-cio-metadata:1.4.0" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio-metadata/1.4.0/9031e0607436010263a087fad391392cd41216f5/ktor-http-cio-metadata-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio-metadata/1.4.0/2bab77d39645005d3e6133c14f5c1d6d9f9de56/ktor-http-cio-metadata-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

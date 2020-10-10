@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-serialization-metadata:1.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-metadata/1.4.0/e68c06d60124e8a0058f09bf106af39e8023e84/ktor-serialization-metadata-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-metadata/1.4.0/1c6861c28e1c3268c979a7501455f4220b272e1a/ktor-serialization-metadata-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
