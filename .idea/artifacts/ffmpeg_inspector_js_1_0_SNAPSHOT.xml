@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ffmpeg-inspector-js-1.0-SNAPSHOT">
+    <output-path>C:\cold\kotlin\ffmpeg-inspector\build\libs</output-path>
+    <root id="archive" name="ffmpeg-inspector-js-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="ffmpeg-inspector.jsMain" />
+    </root>
+  </artifact>
+</component>
